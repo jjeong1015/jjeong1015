@@ -1,5 +1,5 @@
 ### Hi there 👋
-### <a href="https://www.notion.so/jjeong1015/95939abc67a044dab24389c38b659184?pvs=4" target="_blank"><img src="https://img.shields.io/badge/문자-색코드?style=flat-square&logo=이미지 이름&logoColor=white"/></a>
+### <img src="https://img.shields.io/badge/Java-색코드?style=flat-square&logo=Java&logoColor=white"/></a>
 ### <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
 ### ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jjeong1015&show_icons=true&theme=great-gatsby)
 
