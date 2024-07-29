@@ -49,6 +49,9 @@
 ### 🚩 Algorithm Ranking
 [![Algorithm Ranking](https://mazassumnida.wtf/api/v2/generate_badge?boj=shinin2008)](https://solved.ac/profile/shinin2008)
 
+### 🚩 GitHub Stats
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jjeong1015&show_icons=true&theme=radical)
+
 
 
 
