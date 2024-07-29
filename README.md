@@ -33,6 +33,17 @@
   <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white">
   <img src="https://img.shields.io/badge/slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">
   <br>
+
+  <div align=center><h3>📚 To Be</h3></div>
+  img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=Kubernetes&logoColor=white">
+  img src="https://img.shields.io/badge/GithubActions-2088FF?style=for-the-badge&logo=GithubActions&logoColor=white">
+  img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white">
+  img src="https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=Terraform&logoColor=white">
+  img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=Ansible&logoColor=white">
+  mg src="https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=VMware&logoColor=white">
+  img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=Cisco&logoColor=white">
+  
+  
 </div>
 <!--
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/> 
