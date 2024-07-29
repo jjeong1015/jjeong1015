@@ -46,7 +46,7 @@
   <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=Cisco&logoColor=white">
 </div>
 
-### 🚩 Algorithm Ranking                                                🚩 GitHub Stats
+### 🚩 Algorithm Ranking_____________________________________________________________ 🚩 GitHub Stats
 [![Algorithm Ranking](https://mazassumnida.wtf/api/v2/generate_badge?boj=shinin2008)](https://solved.ac/profile/shinin2008) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jjeong1015&show_icons=true&theme=radical)
 
 
