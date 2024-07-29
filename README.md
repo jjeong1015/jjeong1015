@@ -49,9 +49,6 @@
 ### 🚩 Algorithm Ranking
 [![Algorithm Ranking](https://mazassumnida.wtf/api/v2/generate_badge?boj=shinin2008)](https://solved.ac/profile/shinin2008)
 
-### 🚌 Top Langs
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jjeong1015&layout=)
-
 ![hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjjeong1015&edge_flat=false&title=hits)
 
 
