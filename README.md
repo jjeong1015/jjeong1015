@@ -1,4 +1,4 @@
-### jjeong's Archive 💛
+### 💛 jjeong's Archive 💛
 
 <div align=center><h1>📚 STACKS</h1></div>
 
