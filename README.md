@@ -20,6 +20,8 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=black"> 
   <img src="https://img.shields.io/badge/AmazonEC2-FF9900?style=for-the-badge&logo=AmazonEC2&logoColor=white"> 
   <img src="https://img.shields.io/badge/AmazonRDS-527FFF?style=for-the-badge&logo=AmazonRDS&logoColor=white"> 
+  <img src="https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=VMware&logoColor=white">
+  <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=Cisco&logoColor=white">
   <br>
 
   <img src="https://img.shields.io/badge/ElasticStack-005571?style=for-the-badge&logo=ElasticStack&logoColor=white">
@@ -43,8 +45,6 @@
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white">
   <img src="https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=Terraform&logoColor=white">
   <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=Ansible&logoColor=white">
-  <img src="https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=VMware&logoColor=white">
-  <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=Cisco&logoColor=white">
   -->
 </div>
 
