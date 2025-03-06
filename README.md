@@ -51,8 +51,6 @@
   <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white"> 
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=PostgreSQL&logoColor=white">
-  <img src="https://img.shields.io/badge/Prometheus-E6522C.svg?style=for-the-badge&logo=Prometheus&logoColor=white">
-  <img src="https://img.shields.io/badge/Grafana-F46800.svg?style=for-the-badge&logo=Grafana&logoColor=white">
   <br>
 
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> 
@@ -63,6 +61,8 @@
   <img src="https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=VMware&logoColor=white">
   <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=Cisco&logoColor=white">
   <img src="https://img.shields.io/badge/Amazon%20Web%20Services-232F3E?style=for-the-badge&logo=Amazon-Web-Services&logoColor=white"> 
+  <img src="https://img.shields.io/badge/Prometheus-E6522C.svg?style=for-the-badge&logo=Prometheus&logoColor=white">
+  <img src="https://img.shields.io/badge/Grafana-F46800.svg?style=for-the-badge&logo=Grafana&logoColor=white">
   <br>
 
   <!--
