@@ -21,7 +21,7 @@
 | 2024-09-20 | PAM  | 사용자의 사용 권한 제어를 목적으로 하는 PAM        | VirtualBox, Linux | [:book:PAM](https://github.com/jjeong1015/PAM.git) | 1
 | 2024-09-23 | Average Load Analysis  | Linux 평균 부하 분석 및 모니터링        | VirtualBox, Linux | [:bookmark_tabs:linux-averageLoadAnalysis](https://github.com/jjeong1015/linux-averageLoadAnalysis.git) | 2
 | 2024-09-24 | Docker Optimization  | Docker 이미지 최적화        | VirtualBox, Linux, Docker | [:shark:dockerImage-optimization](https://github.com/jjeong1015/dockerImage-optimization.git) | 1
-| 2024-09-25 | Docker with Trivy  | Trivy를 사용한 Docker 보안 문제 파악        | VirtualBox, Linux, Docker | [:lock:docker-with-trivy](https://github.com/jjeong1015/docker-with-trivy.git) | 1
+| 2024-09-25 | Docker with Trivy  | Trivy를 사용한 Docker 보안 문제 파악        | VirtualBox, Linux, Docker, Trivy | [:lock:docker-with-trivy](https://github.com/jjeong1015/docker-with-trivy.git) | 1
 | 2024-09-26 | Jenkins with Ngrok  | Jenkins와 Ngrok을 활용한 CI/CD 파이프라인 구축 가이드  | VirtualBox, Linux, Docker, Jenkins | [:rocket:jenkins-with-ngrok](https://github.com/jjeong1015/jenkins-with-ngrok.git) | 1
 | 2024-09-30 | Jenkins with Shell  | Jenkins 기반 CI/CD 자동 배포를 위한 배포 자동화 스크립트  | Linux, Java, Jenkins | [:rocket:jenkins-with-shell](https://github.com/jjeong1015/jenkins-with-shell.git) | 1
 | 2024-10-11 | Jenkins with S3  | Jenkins를 활용해 빌드 및 배포 파이프라인을 구축하고, 결과물을 S3에 업로드하여 안정적인 배포를 자동화        | AWS, VirtualBox, Linux, Docker, Ngrok, Jenkins | [:rocket:jenkins-with-s3](https://github.com/jjeong1015/jenkins-with-s3.git) | 1
@@ -56,6 +56,7 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> 
   <img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=VirtualBox&logoColor=black">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=black"> 
+  <img src="https://img.shields.io/badge/Trivy-1904DA?style=for-the-badge&logo=Trivy&logoColor=black">
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=Kubernetes&logoColor=white">
   <img src="https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=Terraform&logoColor=white"> 
   <img src="https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=VMware&logoColor=white">
