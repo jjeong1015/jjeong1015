@@ -31,11 +31,11 @@
 | 2024-08-16 | Daily Travel  | 사용자가 자유롭게 여행 장소와 일정을 공유할 수 있는 웹사이트        | Java | [:airplane:daily-travel](https://github.com/WooriFisa3-TeamOrg/daily-travel) | 4
 
 
-## Algorithm
+## Etc
 | 날짜       | 프로젝트명         | 설명                            | 스택                   | 깃허브 주소  | 인원                                     |
 |------------|----------------------|---------------------------------|------------------------|------------------------------------------------|------------|
-| 2022 - up to now | PS  | Algorithm(Baekjoon, Programmers)| Java | [💻ps](https://github.com/jjeong1015/PS.git) | 1
-
+| 2022 - up to now | PS  | Algorithm(Baekjoon, Programmers)| Java | [💻ps](https://github.com/jjeong1015/PS.git) | 1 
+| 2023.07 | HIRA  | 크롤링을 활용하여 엑셀 파일 다운로드 자동화 프로그램 구현| Python, Selenium | [💻hira](https://github.com/jjeong1015/HIRA.git) | 1
 
 <div align=center><h1>📚 STACKS</h1></div>
 
