@@ -36,7 +36,7 @@
 |------------|----------------------|---------------------------------|------------------------|------------------------------------------------|------------|
 | 2022 - up to now | PS  | Algorithm(Baekjoon, Programmers)| Java | [💻ps](https://github.com/jjeong1015/PS.git) | 1 
 | 2023.07 | HIRA  | 크롤링을 활용하여 엑셀 파일 다운로드 자동화 프로그램 구현| Python, Selenium | [💻hira](https://github.com/jjeong1015/HIRA.git) | 1
-| 2025 - up to now | Network  | Network Study        | Linux, VirtualBox, VMware | [🌉network](https://github.com/KOSA-Learn/Network) | 4
+| 2025 - up to now | study  | Network, Kubernetes, Cloud        | Linux, VirtualBox, VMware, Kubernetes, AWS | [🌉study](https://github.com/KOSA-Learn/study) | 4
 
 <div align=center><h1>📚 STACKS</h1></div>
 
